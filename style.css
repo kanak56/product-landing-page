@@ -6,6 +6,9 @@
     width: 15vw;
     color: darkorange;
 }
+#header{
+    position: fixed;
+}
 #hero {
     display: flex;
     flex-direction: column;
